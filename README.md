@@ -39,11 +39,11 @@ O que é a Programação Orientada a Objetos, entenda o que de fato são os Obje
 Vamos continuar nos aprofundando na Programação Orientada a Objetos, entender o que é o Require, Escopo das variáveis, Atributos e os Construtores.
  
 
-### [ ] Aula 8: Ruby Avançado I
+### [x] Aula 8: Ruby Avançado I
 Avançando um pouco mais nossos conhecimentos em Ruby, vamos ver o que são Blocks, Lambda e Modules (Namespace e Mixins).
  
 
-### [ ] Aula 9: Ruby Avançado II
+### [x] Aula 9: Ruby Avançado II
 Entenda o que são Regex, Time, Method Missing, Self e métodos Private e Protected.
  
 
