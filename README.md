@@ -5,6 +5,10 @@ Neste curso tive a oportunidade de aprender Ruby em apenas 10 aulas práticas e 
 ## Data de Início: 28/04/2022
 ## Data do Término: 
 
+## Projeto Final:
+
+Crie um software que permita que o usuário entre com um texto, o idioma em que o texto está escrito e também o idioma para qual ele deseja traduzir o texto e receba como resposta na tela o texto traduzido.
+
 ## Estrutura curricular:
 
 ### [x] Aula 1: Introdução ao Ruby
